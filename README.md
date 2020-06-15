@@ -1,4 +1,4 @@
-# Data-structures-Algorithms-problems-and-solutions
+# Data structures Algorithms problems and solutions
 <p> Solutions for all the problems in the Data structures and algorithms course in my 4th semester (2018-2019). </p>
 <ul> 
   <p> Including 7 contests: </p>
