@@ -10,3 +10,5 @@
   <li> Contest 6: Data structures </li>
   <li> Contest 7: Graph </li>
 </ul>
+<p>All the problems and solutions related to the Data structures and algorithms course in my 4th semester (2018-2019).</p>
+<p>All the solutions written in C++, except 1 problem using Python.</p>
